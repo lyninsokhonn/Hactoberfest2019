@@ -62,3 +62,7 @@ Hacktoberfest Classroom Project 2019
 > Hi, how do you do? Where did you come from, where did you go? Where did you come from, Cotton-Eye Joe?
 ---
 
+### Lynin
+[lyninsokhonn](https://github.com/lyninsokhonn)
+> I'm mad at my code for not working how I want it to do while my code does exactly what it was programmed to do
+---
